@@ -6,8 +6,11 @@ I made use of the following kaggle dataset
 ➡️ https://www.kaggle.com/grassknoted/asl-alphabet
 
 ## Try it yourself
+
+### INSTALLATION
 ```pip3 install -r requirements.txt```
 
+### RUN THE CODE
 ```python example.py```
 
 Note: It may take awhile to load the model so patience is key!
