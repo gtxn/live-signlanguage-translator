@@ -7,10 +7,10 @@ I made use of the following kaggle dataset
 
 ## Try it yourself
 
-### INSTALLATION
+#### Installation
 ```pip3 install -r requirements.txt```
 
-### RUN THE CODE
+#### Run the code
 ```python example.py```
 
 Note: It may take awhile to load the model so patience is key!
