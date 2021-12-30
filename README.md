@@ -20,7 +20,7 @@ First I passed each image through mediapipe's hand detection model, which gave 2
 
 But to make my model more accurate, I did additional processing to calculate relative distances away from landmark 0 (the wrist) instead of the raw values themselves.
 
-## Training time
+## Training 🏃‍♀️
 Next, I processed the data as an Numpy array and fed it into a Tensorflow neural network. And trained it on 500 epochs.
 
 ![image](https://user-images.githubusercontent.com/59089164/147747344-d59c7adf-3465-4566-9b52-e6bd32d4bfaa.png)
