@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+.DS_STORE
+test_data
+train_data
+train_imgs
+train_imgs_all
