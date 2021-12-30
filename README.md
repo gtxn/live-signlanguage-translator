@@ -1,4 +1,4 @@
-# live-signlanguage-translator
+# signlanguage-translator
 
 This project made use of @mediapipe as well as tensorflow to quickly and accurately identify letters in the American Sign Language.
 
